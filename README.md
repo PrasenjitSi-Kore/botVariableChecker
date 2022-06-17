@@ -11,10 +11,10 @@ To identify the content or env  variables which have different / same values in 
 ## How to use ?
 First we need to set the below configuration in config.json file.
 
-*“file_one” => path fo the exported bot variables json file for a bot.
-*“file_two” => path fo the exported bot variables json  file for another bot.
-*“variableType” => (content or locale) / env
-*“filterType” => “diff” or “same”, here “diff” will return the variables which have different values in both Dev and QA files. “same” will return the variables which have similar values in both Dev and QA files.
+* “**file_one**” => path fo the exported bot variables json file for a bot.
+* “**file_two**” => path fo the exported bot variables json  file for another bot.
+* “**variableType**” => (content or locale) / env
+* “**filterType**” => “diff” or “same”, here “diff” will return the variables which have different values in both Dev and QA files. “same” will return the variables which have similar values in both Dev and QA files.
  
 Once you done with the configuration you need to execute index.js file in terminal using below command
 > node inexe.js
