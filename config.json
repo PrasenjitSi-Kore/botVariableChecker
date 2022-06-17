@@ -1,0 +1,6 @@
+{
+    "file_one": "./ITAssistDev_BotVariables.json",
+    "file_two": "./ITAssistQA_BotVariables.json",
+    "variableType": "env",
+    "filterType": "diff"
+}
